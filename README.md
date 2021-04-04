@@ -2,6 +2,8 @@
 ipython notebook for dhaka ai
 includes the inference notebook
 
+![alt text](./certificate.jpg)
+
 
 # Datasets used - 
 1) Training dataset provided by DhakaAI [(1)](https://doi.org/10.7910/DVN/POREXF)
