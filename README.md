@@ -1,2 +1,2 @@
 # dhaka-ai
-google colab for dhaka ai
+ipython notebook for dhaka ai
