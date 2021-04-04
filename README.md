@@ -1,4 +1,4 @@
-# dhaka-ai
+# DhakaAI2020
 ipython notebook for dhaka ai
 includes the inference notebook
 
