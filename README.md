@@ -1,9 +1,9 @@
 # DhakaAI2020
 Team TrafficZero
 
-This repository contains the ipython inference notebook for DhakaAI 2020 competition.
+This repository contains the ipython inference notebook for DhakaAI 2020 competition, named [AI-Based Dhaka Traffic Detection Challenge 2020](https://dhaka-ai.com/). 
 
-## Certificate
+## Certificate , Team TrafficZero - 7th place
 ![alt text](./certificate.jpg)
 
 ## Poster
