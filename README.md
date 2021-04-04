@@ -1,6 +1,10 @@
 # DhakaAI2020
-ipython notebook for dhaka ai
-includes the inference notebook
+Team TrafficZero
+
+This repository contains the ipython inference notebook for DhakaAI 2020 competition.
+
+
+![alt text](./certificate.jpg)
 
 
 # Datasets used - 
